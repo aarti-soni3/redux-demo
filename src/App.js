@@ -21,6 +21,8 @@ function App() {
 
         What you can do instead is wrap that function call inside an arrow function to solve your problem. 
         It'll call the inner function once you onClick:
+
+        https://stackoverflow.com/questions/44833583/expected-onclick-listener-to-be-a-function-instead-got-type-object-react-redu
        */}
     </div>
   );
